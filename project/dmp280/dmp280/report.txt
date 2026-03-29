@@ -1,0 +1,7 @@
+Info: Output directory '/home/cobalt/Pandora/iot/embedded-microcontroller-applications/temp' created.
+Plotted to '/home/cobalt/Pandora/iot/embedded-microcontroller-applications/temp/dmp280.svg'.
+Plotted to '/home/cobalt/Pandora/iot/embedded-microcontroller-applications/temp/dmp280.svg'.
+Plotted to '/home/cobalt/Pandora/iot/embedded-microcontroller-applications/temp/dmp280.svg'.
+Info: Done.
+Info: Done.
+Info: Done.
